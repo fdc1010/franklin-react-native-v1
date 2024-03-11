@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2013,
+    "title": "Rush",
+    "director": "Ron Howard",
+    "released": "02 Sept 2013",
+    "genre": ["Action", "Biography", "Drama", "Sport"],
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTQyMDE0MTY0OV5BMl5BanBnXkFtZTcwMjI2OTI0OQ@@._V1_SX400_.jpg",
+    "plot": "A re-creation of the merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "actors": ["Daniel Bruhl", "Chris Hemsworth", "Olivia Wilde"]
+  },
+  {
+    "year": 2013,
+    "title": "Prisoners",
+    "director": ["Denis Villeneuve"],
+    "released": "24 Oct 2013",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX400_.jpg",
+    "plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?",
+    "actors": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis"]
+  },
+  {
+    "year": 1993,
+    "title": "Schindler's List",
+    "director": "Steven Spielberg",
+    "released": "11 Nov 1993",
+    "genre": ["Biography", "Drama", "History", "War"],
+    "poster": "http://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "plot": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"]
+  }
+]
